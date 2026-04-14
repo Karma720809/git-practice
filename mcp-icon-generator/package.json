@@ -1,0 +1,14 @@
+{
+  "name": "mcp-icon-generator",
+  "version": "1.0.0",
+  "description": "MCP server to generate custom 3D icons with transparent backgrounds",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
